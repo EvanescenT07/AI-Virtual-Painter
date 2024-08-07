@@ -48,3 +48,16 @@ AI Virtual Canvas is an innovative application that combines hand tracking, gest
 - **Painter Using Hand Gesture:** Use your index finger to draw on the canvas. The color and thickness of the drawing tool can be selected using the header.
 - **OCR:** Click the OCR button to recognize and extract text from the canvas. The recognized text is saved in the `text/recognized_text.txt` file.
 - **Clear Canvas:** Click the Clear button to clear the canvas.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [MediaPipe](https://mediapipe.dev/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [OpenCV](https://opencv.org/)
+- [Pytesseract](https://github.com/madmaze/pytesseract)
+
+For more details, visit the [GitHub repository](https://github.com/EvanescenT07/AI-Virtual-Painter).
